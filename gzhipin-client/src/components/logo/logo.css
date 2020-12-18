@@ -1,0 +1,8 @@
+.logo-container {
+  text-align: center;
+}
+.logo-container .logo-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
