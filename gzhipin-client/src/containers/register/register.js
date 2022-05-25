@@ -72,7 +72,7 @@ class Register extends Component {
     return (
       <div>
         {/*  Nav组件 */}
-        <NavBar className="navBar">嘉&nbsp;俊&nbsp;直&nbsp;聘</NavBar>
+        <NavBar className="navBar">企&nbsp;业&nbsp;直&nbsp;聘</NavBar>
         {/* 上下留白 */}
         <WhiteSpace size="xl" />
         {/* Logo组件 */}
